@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="For2/For2.csproj" />
+  <Project Path="for3/for3.csproj" Id="cd95b95e-8389-4432-a673-b5d9fb2f5fd3" />
+  <Project Path="for4/for4.csproj" Id="313f357e-af37-4e3a-93a7-180b53b442b5" />
   <Project Path="PoyectosForyWhile/PoyectosForyWhile.csproj" />
 </Solution>
