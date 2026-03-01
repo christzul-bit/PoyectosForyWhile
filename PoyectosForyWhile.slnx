@@ -9,4 +9,9 @@
   <Project Path="for8/for8.csproj" Id="03f91ebe-a791-40c4-838b-744ce8bc37f7" />
   <Project Path="for9/for9.csproj" Id="4a94a529-0874-4661-90de-32b111e21f20" />
   <Project Path="PoyectosForyWhile/PoyectosForyWhile.csproj" />
+  <Project Path="while11/while11.csproj" Id="24217e8c-c2fb-4b2d-a115-ad9b3fa078de" />
+  <Project Path="while12/while12.csproj" Id="2140b337-f558-45cf-93a3-f481baa5ff04" />
+  <Project Path="while13/while13.csproj" Id="cecc5cb2-fd6f-4fe4-b505-21ebde67f2ee" />
+  <Project Path="while14/while14.csproj" Id="2f8b0cc3-752a-4d33-8101-65f17a4f0376" />
+  <Project Path="while15/while15.csproj" Id="21955533-7569-4a10-8707-5882cdcbb6a8" />
 </Solution>
