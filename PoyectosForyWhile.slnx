@@ -1,6 +1,12 @@
 <Solution>
+  <Project Path="for10/for10.csproj" Id="31c9a99c-dec5-48d6-bed8-0241124062f8" />
   <Project Path="For2/For2.csproj" />
   <Project Path="for3/for3.csproj" Id="cd95b95e-8389-4432-a673-b5d9fb2f5fd3" />
   <Project Path="for4/for4.csproj" Id="313f357e-af37-4e3a-93a7-180b53b442b5" />
+  <Project Path="for5/for5.csproj" Id="bffa76c8-ff35-412e-af52-0c731c859208" />
+  <Project Path="for6/for6.csproj" Id="d5d6b811-eab6-4a51-bce5-feb86f8a4b07" />
+  <Project Path="for7/for7.csproj" Id="c8ba5795-9696-460d-8e95-178537e49fe0" />
+  <Project Path="for8/for8.csproj" Id="03f91ebe-a791-40c4-838b-744ce8bc37f7" />
+  <Project Path="for9/for9.csproj" Id="4a94a529-0874-4661-90de-32b111e21f20" />
   <Project Path="PoyectosForyWhile/PoyectosForyWhile.csproj" />
 </Solution>
