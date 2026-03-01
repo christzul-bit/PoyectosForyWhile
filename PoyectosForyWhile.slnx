@@ -14,4 +14,8 @@
   <Project Path="while13/while13.csproj" Id="cecc5cb2-fd6f-4fe4-b505-21ebde67f2ee" />
   <Project Path="while14/while14.csproj" Id="2f8b0cc3-752a-4d33-8101-65f17a4f0376" />
   <Project Path="while15/while15.csproj" Id="21955533-7569-4a10-8707-5882cdcbb6a8" />
+  <Project Path="while16/while16.csproj" Id="fee9711a-e37b-448d-800d-ed0abf97f4fe" />
+  <Project Path="while17/while17.csproj" Id="b5d528f8-b070-4df7-b942-bf9e1344c049" />
+  <Project Path="while18/while18.csproj" Id="5d1a714d-8b00-40d4-80f6-925bf75a3f25" />
+  <Project Path="while19/while19.csproj" Id="4d24c56a-ba05-41bb-b0ca-1935f37fa99d" />
 </Solution>
